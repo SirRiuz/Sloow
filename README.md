@@ -8,6 +8,6 @@ Del lado del cliente utiliza Vue js y del lado del servidor utiliza Python - Fla
 
 ![Alt text](https://github.com/SirRiuz/Sloow/blob/master/img/autentication.png "Sistema de autenticacion")
 
-![Alt text](https://github.com/SirRiuz/Sloow/blob/master/img/home.png"Sistema de autenticacion")
+![Alt text](https://github.com/SirRiuz/Sloow/blob/master/img/home.png "Sistema de autenticacion")
 
 
